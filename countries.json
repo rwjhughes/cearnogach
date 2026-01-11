@@ -1,0 +1,1267 @@
+[
+  {
+    "code": "ad",
+    "ga": "andóra",
+    "en": "andorra"
+  },
+  {
+    "code": "ae",
+    "ga": "aontas na néimíríochtaí arabacha",
+    "en": "united arab emirates"
+  },
+  {
+    "code": "af",
+    "ga": "afganastáin",
+    "en": "afghanistan"
+  },
+  {
+    "code": "ag",
+    "ga": "antigua agus barbúda",
+    "en": "antigua & barbuda"
+  },
+  {
+    "code": "ai",
+    "ga": "angaíle",
+    "en": "anguilla"
+  },
+  {
+    "code": "al",
+    "ga": "albáin",
+    "en": "albania"
+  },
+  {
+    "code": "am",
+    "ga": "airméin",
+    "en": "armenia"
+  },
+  {
+    "code": "ao",
+    "ga": "angóla",
+    "en": "angola"
+  },
+  {
+    "code": "aq",
+    "ga": "antartaice",
+    "en": "antarctica"
+  },
+  {
+    "code": "ar",
+    "ga": "airgintín",
+    "en": "argentina"
+  },
+  {
+    "code": "as",
+    "ga": "samó meiriceá",
+    "en": "american samoa"
+  },
+  {
+    "code": "at",
+    "ga": "ostair",
+    "en": "austria"
+  },
+  {
+    "code": "au",
+    "ga": "astráil",
+    "en": "australia"
+  },
+  {
+    "code": "aw",
+    "ga": "arúba",
+    "en": "aruba"
+  },
+  {
+    "code": "ax",
+    "ga": "oileáin åland",
+    "en": "åland islands"
+  },
+  {
+    "code": "az",
+    "ga": "asarbaiseáin",
+    "en": "azerbaijan"
+  },
+  {
+    "code": "ba",
+    "ga": "boisnia agus an heirseagaivéin",
+    "en": "bosnia & herzegovina"
+  },
+  {
+    "code": "bb",
+    "ga": "barbadós",
+    "en": "barbados"
+  },
+  {
+    "code": "bd",
+    "ga": "banglaidéis",
+    "en": "bangladesh"
+  },
+  {
+    "code": "be",
+    "ga": "beilg",
+    "en": "belgium"
+  },
+  {
+    "code": "bf",
+    "ga": "buircíne fasó",
+    "en": "burkina faso"
+  },
+  {
+    "code": "bg",
+    "ga": "bulgáir",
+    "en": "bulgaria"
+  },
+  {
+    "code": "bh",
+    "ga": "bairéin",
+    "en": "bahrain"
+  },
+  {
+    "code": "bi",
+    "ga": "burúin",
+    "en": "burundi"
+  },
+  {
+    "code": "bj",
+    "ga": "beinin",
+    "en": "benin"
+  },
+  {
+    "code": "bl",
+    "ga": "saint barthélemy",
+    "en": "st. barthélemy"
+  },
+  {
+    "code": "bm",
+    "ga": "beirmiúda",
+    "en": "bermuda"
+  },
+  {
+    "code": "bn",
+    "ga": "brúiné",
+    "en": "brunei"
+  },
+  {
+    "code": "bo",
+    "ga": "bolaiv",
+    "en": "bolivia"
+  },
+  {
+    "code": "bq",
+    "ga": "ísiltír cairibeach",
+    "en": "caribbean netherlands"
+  },
+  {
+    "code": "br",
+    "ga": "brasaíl",
+    "en": "brazil"
+  },
+  {
+    "code": "bs",
+    "ga": "na bahámaí",
+    "en": "bahamas"
+  },
+  {
+    "code": "bt",
+    "ga": "bútáin",
+    "en": "bhutan"
+  },
+  {
+    "code": "bv",
+    "ga": "oileán bouvet",
+    "en": "bouvet island"
+  },
+  {
+    "code": "bw",
+    "ga": "botsuáin",
+    "en": "botswana"
+  },
+  {
+    "code": "by",
+    "ga": "bealarúis",
+    "en": "belarus"
+  },
+  {
+    "code": "bz",
+    "ga": "beilís",
+    "en": "belize"
+  },
+  {
+    "code": "ca",
+    "ga": "ceanada",
+    "en": "canada"
+  },
+  {
+    "code": "cc",
+    "ga": "oileáin cocos (keeling)",
+    "en": "cocos (keeling) islands"
+  },
+  {
+    "code": "cd",
+    "ga": "congó (pdc)",
+    "en": "congo (drc)"
+  },
+  {
+    "code": "cf",
+    "ga": "poblacht na hafraice láir",
+    "en": "central african republic"
+  },
+  {
+    "code": "cg",
+    "ga": "congó (poblacht)",
+    "en": "congo (republic)"
+  },
+  {
+    "code": "ch",
+    "ga": "eilvéis",
+    "en": "switzerland"
+  },
+  {
+    "code": "ci",
+    "ga": "cósta eabhair",
+    "en": "ivory coast"
+  },
+  {
+    "code": "ck",
+    "ga": "oileáin cook",
+    "en": "cook islands"
+  },
+  {
+    "code": "cl",
+    "ga": "tsile",
+    "en": "chile"
+  },
+  {
+    "code": "cm",
+    "ga": "camarún",
+    "en": "cameroon"
+  },
+  {
+    "code": "cn",
+    "ga": "tsín",
+    "en": "china"
+  },
+  {
+    "code": "co",
+    "ga": "colóim",
+    "en": "colombia"
+  },
+  {
+    "code": "cr",
+    "ga": "cósta ríce",
+    "en": "costa rica"
+  },
+  {
+    "code": "cu",
+    "ga": "cúba",
+    "en": "cuba"
+  },
+  {
+    "code": "cv",
+    "ga": "rinn verde",
+    "en": "cape verde"
+  },
+  {
+    "code": "cw",
+    "ga": "curaçao",
+    "en": "curaçao"
+  },
+  {
+    "code": "cx",
+    "ga": "oileán na nollag",
+    "en": "christmas island"
+  },
+  {
+    "code": "cy",
+    "ga": "cipir",
+    "en": "cyprus"
+  },
+  {
+    "code": "cz",
+    "ga": "poblacht na seice",
+    "en": "czechia"
+  },
+  {
+    "code": "de",
+    "ga": "gearmáin",
+    "en": "germany"
+  },
+  {
+    "code": "dj",
+    "ga": "djibouti",
+    "en": "djibouti"
+  },
+  {
+    "code": "dk",
+    "ga": "danmhairg",
+    "en": "denmark"
+  },
+  {
+    "code": "dm",
+    "ga": "doiminice",
+    "en": "dominica"
+  },
+  {
+    "code": "do",
+    "ga": "poblacht doiminiceach",
+    "en": "dominican republic"
+  },
+  {
+    "code": "dz",
+    "ga": "ailgéir",
+    "en": "algeria"
+  },
+  {
+    "code": "ec",
+    "ga": "eacuadór",
+    "en": "ecuador"
+  },
+  {
+    "code": "ee",
+    "ga": "eastóin",
+    "en": "estonia"
+  },
+  {
+    "code": "eg",
+    "ga": "éigipt",
+    "en": "egypt"
+  },
+  {
+    "code": "eh",
+    "ga": "sahára tiar",
+    "en": "western sahara"
+  },
+  {
+    "code": "er",
+    "ga": "eiritré",
+    "en": "eritrea"
+  },
+  {
+    "code": "es",
+    "ga": "spáinn",
+    "en": "spain"
+  },
+  {
+    "code": "et",
+    "ga": "aetóip",
+    "en": "ethiopia"
+  },
+  {
+    "code": "fi",
+    "ga": "fionlainn",
+    "en": "finland"
+  },
+  {
+    "code": "fj",
+    "ga": "fidsí",
+    "en": "fiji"
+  },
+  {
+    "code": "fk",
+    "ga": "oileáin fáclainne",
+    "en": "falkland islands"
+  },
+  {
+    "code": "fm",
+    "ga": "micrinéis",
+    "en": "micronesia"
+  },
+  {
+    "code": "fo",
+    "ga": "oileáin faró",
+    "en": "faroe islands"
+  },
+  {
+    "code": "fr",
+    "ga": "frainc",
+    "en": "france"
+  },
+  {
+    "code": "ga",
+    "ga": "gabúin",
+    "en": "gabon"
+  },
+  {
+    "code": "gb",
+    "ga": "ríocht aontaithe",
+    "en": "united kingdom"
+  },
+  {
+    "code": "gb-eng",
+    "ga": "sasana",
+    "en": "england"
+  },
+  {
+    "code": "gb-nir",
+    "ga": "tuaisceart éireann",
+    "en": "northern ireland"
+  },
+  {
+    "code": "gb-sct",
+    "ga": "albain",
+    "en": "scotland"
+  },
+  {
+    "code": "gb-wls",
+    "ga": "breatain beag",
+    "en": "wales"
+  },
+  {
+    "code": "gd",
+    "ga": "greanáda",
+    "en": "grenada"
+  },
+  {
+    "code": "ge",
+    "ga": "tseoirsia",
+    "en": "georgia"
+  },
+  {
+    "code": "gf",
+    "ga": "guáin na fraince",
+    "en": "french guiana"
+  },
+  {
+    "code": "gg",
+    "ga": "geansaí",
+    "en": "guernsey"
+  },
+  {
+    "code": "gh",
+    "ga": "gána",
+    "en": "ghana"
+  },
+  {
+    "code": "gi",
+    "ga": "giobráltar",
+    "en": "gibraltar"
+  },
+  {
+    "code": "gl",
+    "ga": "graonlainn",
+    "en": "greenland"
+  },
+  {
+    "code": "gm",
+    "ga": "gaimbia",
+    "en": "gambia"
+  },
+  {
+    "code": "gn",
+    "ga": "guine",
+    "en": "guinea"
+  },
+  {
+    "code": "gp",
+    "ga": "guadalúip",
+    "en": "guadeloupe"
+  },
+  {
+    "code": "gq",
+    "ga": "guine meánchiorclach",
+    "en": "equatorial guinea"
+  },
+  {
+    "code": "gr",
+    "ga": "gréig",
+    "en": "greece"
+  },
+  {
+    "code": "gs",
+    "ga": "tseoirsia teas agus oileáin sandwich theas",
+    "en": "south georgia & south sandwich islands"
+  },
+  {
+    "code": "gt",
+    "ga": "guatamala",
+    "en": "guatemala"
+  },
+  {
+    "code": "gu",
+    "ga": "guam",
+    "en": "guam"
+  },
+  {
+    "code": "gw",
+    "ga": "guine bissau",
+    "en": "guinea-bissau"
+  },
+  {
+    "code": "gy",
+    "ga": "guáin",
+    "en": "guyana"
+  },
+  {
+    "code": "hk",
+    "ga": "hong cong",
+    "en": "hong kong"
+  },
+  {
+    "code": "hm",
+    "ga": "oileán heard agus oileáin mcdonald",
+    "en": "heard & mcdonald islands"
+  },
+  {
+    "code": "hn",
+    "ga": "hondúras",
+    "en": "honduras"
+  },
+  {
+    "code": "hr",
+    "ga": "cróit",
+    "en": "croatia"
+  },
+  {
+    "code": "ht",
+    "ga": "háítí",
+    "en": "haiti"
+  },
+  {
+    "code": "hu",
+    "ga": "ungáir",
+    "en": "hungary"
+  },
+  {
+    "code": "id",
+    "ga": "indinéis",
+    "en": "indonesia"
+  },
+  {
+    "code": "ie",
+    "ga": "éire",
+    "en": "ireland"
+  },
+  {
+    "code": "il",
+    "ga": "iosrael",
+    "en": "israel"
+  },
+  {
+    "code": "im",
+    "ga": "oileán manann",
+    "en": "isle of man"
+  },
+  {
+    "code": "in",
+    "ga": "india",
+    "en": "india"
+  },
+  {
+    "code": "io",
+    "ga": "críoch aigéan indiach na breataine",
+    "en": "british indian ocean territory"
+  },
+  {
+    "code": "iq",
+    "ga": "iaráic",
+    "en": "iraq"
+  },
+  {
+    "code": "ir",
+    "ga": "iaráin",
+    "en": "iran"
+  },
+  {
+    "code": "is",
+    "ga": "íoslainn",
+    "en": "iceland"
+  },
+  {
+    "code": "it",
+    "ga": "iodáil",
+    "en": "italy"
+  },
+  {
+    "code": "je",
+    "ga": "geirsí",
+    "en": "jersey"
+  },
+  {
+    "code": "jm",
+    "ga": "iamáice",
+    "en": "jamaica"
+  },
+  {
+    "code": "jo",
+    "ga": "iordáin",
+    "en": "jordan"
+  },
+  {
+    "code": "jp",
+    "ga": "tseapáin",
+    "en": "japan"
+  },
+  {
+    "code": "ke",
+    "ga": "céinia",
+    "en": "kenya"
+  },
+  {
+    "code": "kg",
+    "ga": "cirgeastáin",
+    "en": "kyrgyzstan"
+  },
+  {
+    "code": "kh",
+    "ga": "cambóid",
+    "en": "cambodia"
+  },
+  {
+    "code": "ki",
+    "ga": "cireabaití",
+    "en": "kiribati"
+  },
+  {
+    "code": "km",
+    "ga": "oileáin comóra",
+    "en": "comoros"
+  },
+  {
+    "code": "kn",
+    "ga": "san críostóir-nimheas",
+    "en": "st. kitts & nevis"
+  },
+  {
+    "code": "kp",
+    "ga": "cóiré tuaidh",
+    "en": "north korea"
+  },
+  {
+    "code": "kr",
+    "ga": "cóiré teas",
+    "en": "south korea"
+  },
+  {
+    "code": "kw",
+    "ga": "cuáit",
+    "en": "kuwait"
+  },
+  {
+    "code": "ky",
+    "ga": "oileáin cayman",
+    "en": "cayman islands"
+  },
+  {
+    "code": "kz",
+    "ga": "casacstáin",
+    "en": "kazakhstan"
+  },
+  {
+    "code": "la",
+    "ga": "laos",
+    "en": "laos"
+  },
+  {
+    "code": "lb",
+    "ga": "liobáin",
+    "en": "lebanon"
+  },
+  {
+    "code": "lc",
+    "ga": "saint lucia",
+    "en": "st. lucia"
+  },
+  {
+    "code": "li",
+    "ga": "lichtinstéin",
+    "en": "liechtenstein"
+  },
+  {
+    "code": "lk",
+    "ga": "srí lanca",
+    "en": "sri lanka"
+  },
+  {
+    "code": "lr",
+    "ga": "libéir",
+    "en": "liberia"
+  },
+  {
+    "code": "ls",
+    "ga": "leosóta",
+    "en": "lesotho"
+  },
+  {
+    "code": "lt",
+    "ga": "liotuáin",
+    "en": "lithuania"
+  },
+  {
+    "code": "lu",
+    "ga": "lucsamburg",
+    "en": "luxembourg"
+  },
+  {
+    "code": "lv",
+    "ga": "laitvia",
+    "en": "latvia"
+  },
+  {
+    "code": "ly",
+    "ga": "libia",
+    "en": "libya"
+  },
+  {
+    "code": "ma",
+    "ga": "maracó",
+    "en": "morocco"
+  },
+  {
+    "code": "mc",
+    "ga": "monacó",
+    "en": "monaco"
+  },
+  {
+    "code": "md",
+    "ga": "moldóiv",
+    "en": "moldova"
+  },
+  {
+    "code": "me",
+    "ga": "montainéagró",
+    "en": "montenegro"
+  },
+  {
+    "code": "mf",
+    "ga": "saint-martin",
+    "en": "st. martin"
+  },
+  {
+    "code": "mg",
+    "ga": "madagascar",
+    "en": "madagascar"
+  },
+  {
+    "code": "mh",
+    "ga": "oileáin marshall",
+    "en": "marshall islands"
+  },
+  {
+    "code": "mk",
+    "ga": "macadóin",
+    "en": "macedonia"
+  },
+  {
+    "code": "ml",
+    "ga": "mailí",
+    "en": "mali"
+  },
+  {
+    "code": "mm",
+    "ga": "maenmar (burma)",
+    "en": "myanmar"
+  },
+  {
+    "code": "mn",
+    "ga": "mongóil",
+    "en": "mongolia"
+  },
+  {
+    "code": "mo",
+    "ga": "macao",
+    "en": "macau"
+  },
+  {
+    "code": "mp",
+    "ga": "na hoileáin mháirianacha thuaidh",
+    "en": "northern mariana islands"
+  },
+  {
+    "code": "mq",
+    "ga": "martinique",
+    "en": "martinique"
+  },
+  {
+    "code": "mr",
+    "ga": "máratáin",
+    "en": "mauritania"
+  },
+  {
+    "code": "ms",
+    "ga": "montsarat",
+    "en": "montserrat"
+  },
+  {
+    "code": "mt",
+    "ga": "málta",
+    "en": "malta"
+  },
+  {
+    "code": "mu",
+    "ga": "oileán muirís",
+    "en": "mauritius"
+  },
+  {
+    "code": "mv",
+    "ga": "oileáin maildíve",
+    "en": "maldives"
+  },
+  {
+    "code": "mw",
+    "ga": "maláiv",
+    "en": "malawi"
+  },
+  {
+    "code": "mx",
+    "ga": "meicsiceo",
+    "en": "mexico"
+  },
+  {
+    "code": "my",
+    "ga": "malaeisia",
+    "en": "malaysia"
+  },
+  {
+    "code": "mz",
+    "ga": "mósaimbíc",
+    "en": "mozambique"
+  },
+  {
+    "code": "na",
+    "ga": "namaib",
+    "en": "namibia"
+  },
+  {
+    "code": "nc",
+    "ga": "nua-chaladóin",
+    "en": "new caledonia"
+  },
+  {
+    "code": "ne",
+    "ga": "nígir",
+    "en": "niger"
+  },
+  {
+    "code": "nf",
+    "ga": "oileán norfolk",
+    "en": "norfolk island"
+  },
+  {
+    "code": "ng",
+    "ga": "nigéir",
+    "en": "nigeria"
+  },
+  {
+    "code": "ni",
+    "ga": "nicearagua",
+    "en": "nicaragua"
+  },
+  {
+    "code": "nl",
+    "ga": "ísiltír",
+    "en": "netherlands"
+  },
+  {
+    "code": "no",
+    "ga": "iorua",
+    "en": "norway"
+  },
+  {
+    "code": "np",
+    "ga": "neipeal",
+    "en": "nepal"
+  },
+  {
+    "code": "nr",
+    "ga": "nárú",
+    "en": "nauru"
+  },
+  {
+    "code": "nu",
+    "ga": "niue",
+    "en": "niue"
+  },
+  {
+    "code": "nz",
+    "ga": "nua-shéalainn",
+    "en": "new zealand"
+  },
+  {
+    "code": "om",
+    "ga": "óman",
+    "en": "oman"
+  },
+  {
+    "code": "pa",
+    "ga": "panama",
+    "en": "panama"
+  },
+  {
+    "code": "pe",
+    "ga": "peiriú",
+    "en": "peru"
+  },
+  {
+    "code": "pf",
+    "ga": "polainéis na fraince",
+    "en": "french polynesia"
+  },
+  {
+    "code": "pg",
+    "ga": "nua-ghuine papua",
+    "en": "papua new guinea"
+  },
+  {
+    "code": "ph",
+    "ga": "na hoileáin fhilipíneacha",
+    "en": "philippines"
+  },
+  {
+    "code": "pk",
+    "ga": "pacastáin",
+    "en": "pakistan"
+  },
+  {
+    "code": "pl",
+    "ga": "polainn",
+    "en": "poland"
+  },
+  {
+    "code": "pm",
+    "ga": "san pierre agus miquelon",
+    "en": "st. pierre & miquelon"
+  },
+  {
+    "code": "pn",
+    "ga": "oileáin pitcairn",
+    "en": "pitcairn islands"
+  },
+  {
+    "code": "pr",
+    "ga": "pórtó ríce",
+    "en": "puerto rico"
+  },
+  {
+    "code": "ps",
+    "ga": "na críocha palaistíneacha",
+    "en": "palestinian territories"
+  },
+  {
+    "code": "pt",
+    "ga": "portaingéil",
+    "en": "portugal"
+  },
+  {
+    "code": "pw",
+    "ga": "oileáin palau",
+    "en": "palau"
+  },
+  {
+    "code": "py",
+    "ga": "paragua",
+    "en": "paraguay"
+  },
+  {
+    "code": "qa",
+    "ga": "catar",
+    "en": "qatar"
+  },
+  {
+    "code": "re",
+    "ga": "réunion",
+    "en": "réunion"
+  },
+  {
+    "code": "ro",
+    "ga": "rómáin",
+    "en": "romania"
+  },
+  {
+    "code": "rs",
+    "ga": "tseirbia",
+    "en": "serbia"
+  },
+  {
+    "code": "ru",
+    "ga": "rúis",
+    "en": "russia"
+  },
+  {
+    "code": "rw",
+    "ga": "ruanda",
+    "en": "rwanda"
+  },
+  {
+    "code": "sa",
+    "ga": "araib sádach",
+    "en": "saudi arabia"
+  },
+  {
+    "code": "sb",
+    "ga": "oileáin solomón",
+    "en": "solomon islands"
+  },
+  {
+    "code": "sc",
+    "ga": "na séiséil",
+    "en": "seychelles"
+  },
+  {
+    "code": "sd",
+    "ga": "tsúdáin",
+    "en": "sudan"
+  },
+  {
+    "code": "se",
+    "ga": "tsualainn",
+    "en": "sweden"
+  },
+  {
+    "code": "sg",
+    "ga": "singeapór",
+    "en": "singapore"
+  },
+  {
+    "code": "sh",
+    "ga": "san héilin",
+    "en": "st. helena"
+  },
+  {
+    "code": "si",
+    "ga": "tslóivéin",
+    "en": "slovenia"
+  },
+  {
+    "code": "sk",
+    "ga": "tslóvaic",
+    "en": "slovakia"
+  },
+  {
+    "code": "sl",
+    "ga": "siarra leon",
+    "en": "sierra leone"
+  },
+  {
+    "code": "sm",
+    "ga": "san mairíne",
+    "en": "san marino"
+  },
+  {
+    "code": "sn",
+    "ga": "tseineagáil",
+    "en": "senegal"
+  },
+  {
+    "code": "so",
+    "ga": "tsomáil",
+    "en": "somalia"
+  },
+  {
+    "code": "sr",
+    "ga": "suranam",
+    "en": "suriname"
+  },
+  {
+    "code": "ss",
+    "ga": "tsúdáin teas",
+    "en": "south sudan"
+  },
+  {
+    "code": "st",
+    "ga": "são tomé agus príncipe",
+    "en": "são tomé & príncipe"
+  },
+  {
+    "code": "sv",
+    "ga": "tsalvadóir",
+    "en": "el salvador"
+  },
+  {
+    "code": "sx",
+    "ga": "sint maarten",
+    "en": "sint maarten"
+  },
+  {
+    "code": "sy",
+    "ga": "tsiria",
+    "en": "syria"
+  },
+  {
+    "code": "sz",
+    "ga": "tsuasalainn",
+    "en": "swaziland"
+  },
+  {
+    "code": "tc",
+    "ga": "oileáin na dturcach agus caicos",
+    "en": "turks & caicos islands"
+  },
+  {
+    "code": "td",
+    "ga": "sead",
+    "en": "chad"
+  },
+  {
+    "code": "tf",
+    "ga": "críocha francacha dheisceart an domhain",
+    "en": "french southern territories"
+  },
+  {
+    "code": "tg",
+    "ga": "tóga",
+    "en": "togo"
+  },
+  {
+    "code": "th",
+    "ga": "téalainn",
+    "en": "thailand"
+  },
+  {
+    "code": "tj",
+    "ga": "táidsíceastáin",
+    "en": "tajikistan"
+  },
+  {
+    "code": "tk",
+    "ga": "tócalá",
+    "en": "tokelau"
+  },
+  {
+    "code": "tl",
+    "ga": "tíomór toir",
+    "en": "timor-leste"
+  },
+  {
+    "code": "tm",
+    "ga": "tuircméanastáin",
+    "en": "turkmenistan"
+  },
+  {
+    "code": "tn",
+    "ga": "túinéis",
+    "en": "tunisia"
+  },
+  {
+    "code": "to",
+    "ga": "tonga",
+    "en": "tonga"
+  },
+  {
+    "code": "tr",
+    "ga": "tuirc",
+    "en": "turkey"
+  },
+  {
+    "code": "tt",
+    "ga": "oileán na tríonóide agus tobága",
+    "en": "trinidad & tobago"
+  },
+  {
+    "code": "tv",
+    "ga": "tuvalu",
+    "en": "tuvalu"
+  },
+  {
+    "code": "tw",
+    "ga": "téaváin",
+    "en": "taiwan"
+  },
+  {
+    "code": "tz",
+    "ga": "tansáin",
+    "en": "tanzania"
+  },
+  {
+    "code": "ua",
+    "ga": "úcráin",
+    "en": "ukraine"
+  },
+  {
+    "code": "ug",
+    "ga": "uganda",
+    "en": "uganda"
+  },
+  {
+    "code": "um",
+    "ga": "oileáin imeallacha s.a.m.",
+    "en": "u.s. outlying islands"
+  },
+  {
+    "code": "us",
+    "ga": "stáit aontaithe mheiriceá",
+    "en": "united states"
+  },
+  {
+    "code": "uy",
+    "ga": "uragua",
+    "en": "uruguay"
+  },
+  {
+    "code": "uz",
+    "ga": "úisbéiceastáin",
+    "en": "uzbekistan"
+  },
+  {
+    "code": "va",
+    "ga": "cathair na vatacáine",
+    "en": "vatican city"
+  },
+  {
+    "code": "vc",
+    "ga": "san uinseann agus na greanáidíní",
+    "en": "st. vincent & grenadines"
+  },
+  {
+    "code": "ve",
+    "ga": "veiniséala",
+    "en": "venezuela"
+  },
+  {
+    "code": "vg",
+    "ga": "oileáin briotanacha na maighdean",
+    "en": "british virgin islands"
+  },
+  {
+    "code": "vi",
+    "ga": "oileáin meiriceánacha na maighdean",
+    "en": "u.s. virgin islands"
+  },
+  {
+    "code": "vn",
+    "ga": "vítneam",
+    "en": "vietnam"
+  },
+  {
+    "code": "vu",
+    "ga": "vanuatú",
+    "en": "vanuatu"
+  },
+  {
+    "code": "wf",
+    "ga": "vailís agus futúna",
+    "en": "wallis & futuna"
+  },
+  {
+    "code": "ws",
+    "ga": "samó",
+    "en": "samoa"
+  },
+  {
+    "code": "xk",
+    "ga": "cosaiv",
+    "en": "kosovo"
+  },
+  {
+    "code": "ye",
+    "ga": "éimin",
+    "en": "yemen"
+  },
+  {
+    "code": "yt",
+    "ga": "mayotte",
+    "en": "mayotte"
+  },
+  {
+    "code": "za",
+    "ga": "afraic teas",
+    "en": "south africa"
+  },
+  {
+    "code": "zm",
+    "ga": "tsaimbia",
+    "en": "zambia"
+  },
+  {
+    "code": "zw",
+    "ga": "tsiombáib",
+    "en": "zimbabwe"
+  }
+]
