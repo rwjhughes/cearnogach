@@ -269,7 +269,7 @@ export default function GameBoard() {
                 <h1 className="text-5xl font-bold text-indigo-900 mb-2">Cearnógach</h1>
             </div>
 
-            <div className="flex flex-wrap-reverse mobile:flex-nowrap gap-6 max-w-4xl mx-auto px-4">
+            <div className="flex flex-wrap-reverse justify-center mobile:flex-nowrap gap-6 max-w-4xl mx-auto px-4">
                 {/* Words Found - Left Side */}
                 <div className="flex-1 bg-white rounded-lg shadow-lg p-4  min-w-[250px] max-w-[340px] overflow-y-auto h-[410px]">
                     <h3 className="text-lg font-bold text-indigo-900 mb-3">
@@ -349,7 +349,7 @@ export default function GameBoard() {
                 </div>
 
                 {/* Grid - Right Side */}
-                <div className="flex-shrink-0 bg-white rounded-lg shadow-lg p-4 h-[410px] flex flex-col-reverse justify-between">
+                <div className="bg-white rounded-lg shadow-lg p-4 h-[410px] flex flex-col-reverse justify-between">
                     <div
                         className="grid gap-2 mb-4"
                         style={{ gridTemplateColumns: `repeat(${GRID_SIZE}, 1fr)`, width: '310px' }}
